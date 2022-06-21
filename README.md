@@ -8,7 +8,7 @@ Pkg install python3
 
 git clone https://github.com/wd017936/WDFBB
 
-cd wd017936
+cd WDFBB
 
 
 python3 WDFBB.py
