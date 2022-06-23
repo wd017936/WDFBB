@@ -41,8 +41,8 @@ usern="white"
 passwd="devil"
 
 
-inpuser=str(input("         Enter Your username>>> "))
-inppass=str(input("         Enter Your password >>> "))
+inpuser=str(input("         Enter TOOL username>>> "))
+inppass=str(input("         Enter TOOL password >>> "))
 
 if usern==inpuser and passwd== inppass:
 	print("{√} username & password correct!")
